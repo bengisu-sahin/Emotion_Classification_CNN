@@ -3,10 +3,10 @@ For our Introduction to Deep Learning course, we were asked to create a CNN mode
 # PROJECT OVERVİEW
 In today's fast-paced world, understanding and managing emotions are crucial for personal success. Our Text Emotion Predictor is a tool harnessing advanced technology to empower individuals through real-time emotion analysis and personalized guidance. 
 # TECH STACK
--Programming language and framework: Python, TensorFlow, Keras.
--PHP: Server-side rendering of HTML templates
--Visualization: Matplotlib.
--Web interface: HTML, CSS, JavaScript.
+* Programming language and framework: Python, TensorFlow, Keras.
+* PHP: Server-side rendering of HTML templates
+* Visualization: Matplotlib.
+* Web interface: HTML, CSS, JavaScript.
 # CONFUSION MATRIX & F1-SCORE & CLASSIFICATION REPORT
 ![image](https://github.com/yagizharman/Emotion_Classification_CNN/assets/71591780/42d6d97e-a569-40f6-93eb-5fce6a5b0717)
 
