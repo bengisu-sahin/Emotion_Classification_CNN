@@ -8,10 +8,9 @@ In today's fast-paced world, understanding and managing emotions are crucial for
 * Visualization: Matplotlib.
 * Web interface: HTML, CSS, JavaScript.
 # CONFUSION MATRIX & F1-SCORE & CLASSIFICATION REPORT
-![image](https://github.com/yagizharman/Emotion_Classification_CNN/assets/71591780/42d6d97e-a569-40f6-93eb-5fce6a5b0717)
-
-![image](https://github.com/yagizharman/Emotion_Classification_CNN/assets/71591780/ca095a8f-efee-475a-b026-d2e4ad3bc5fe)
-![image](https://github.com/yagizharman/Emotion_Classification_CNN/assets/71591780/70c1de24-28ab-4cf5-81b3-328ef05d9ec9)
+* ![image](https://github.com/yagizharman/Emotion_Classification_CNN/assets/71591780/42d6d97e-a569-40f6-93eb-5fce6a5b0717)
+* ![image](https://github.com/yagizharman/Emotion_Classification_CNN/assets/71591780/ca095a8f-efee-475a-b026-d2e4ad3bc5fe)
+* ![image](https://github.com/yagizharman/Emotion_Classification_CNN/assets/71591780/70c1de24-28ab-4cf5-81b3-328ef05d9ec9)
 # DISPLAYING MODEL IN A WEB PAGE
 
 ## CONTRIBUTORS
