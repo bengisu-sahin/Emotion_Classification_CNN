@@ -15,5 +15,5 @@ In today's fast-paced world, understanding and managing emotions are crucial for
 # DISPLAYING MODEL IN A WEB PAGE
 
 ## CONTRIBUTORS
--Yağız Harman   (github user name: yagizharman)
--Bengisu Şahin  (github user name: bengisu-sahin)
+* [Yağız HARMAN ](https://github.com/yagizharman)
+* [Bengisu ŞAHİN](https://github.com/bengisu-sahin)
