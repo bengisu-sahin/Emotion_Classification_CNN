@@ -16,6 +16,7 @@ In today's fast-paced world, understanding and managing emotions are crucial for
 # DISPLAYING MODEL IN A WEB PAGE
   ## Home Page 
   The user enters his/her frequently felt feelings and ideas into the text box and then presses the predict button. As a result, the model makes an analysis of the user's general mood.
+  
 ![Presentation_Video-ezgif com-video-to-gif-converter](https://github.com/bengisu-sahin/Emotion_Classification_CNN/assets/71591780/304629c6-6ed6-4c31-abc3-3bdb7cc21e9e)
   ## About Us Page
   About us page is giving informations about who we are, why should you use this application.
